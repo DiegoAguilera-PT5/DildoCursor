@@ -1,0 +1,18 @@
+# Lo que sale de compilar
+bin/
+dist/
+build/
+obj/
+
+# Imagenes de prueba que genera el proceso de desarrollo
+_*.png
+
+# Referencia que ya no se usa (las venas se sacaron)
+Venas.png
+
+# Varios de Windows / editores
+Thumbs.db
+desktop.ini
+*.suo
+*.user
+.vs/
